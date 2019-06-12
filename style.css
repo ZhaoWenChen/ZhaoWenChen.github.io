@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+	margin: auto;
+	padding: auto;
+	font-family: arial,"Microsoft JhengHei","微軟正黑體",sans-serif !important;
+	height: 100vh;
+	background-image: url("triangle.png");
+	background-size: cover;
+}
+
+header, section {
+	width: 100%;
+}
+
+header {
+	
+}
+
+ul {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+li { 
+	display: inline-block; 
+	padding: 20px; 
+	border-radius: 5px;
+	border: 2px #012340 solid;
+	background-color: #C1C9D9;
+}
+
+a {
+	color: #012340;
+	text-decoration: none; 
+}
+
